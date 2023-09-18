@@ -6,7 +6,7 @@
   - Why R2 for test data? Can R2 be negative?
   - Does the degree of the pol has to be variable in B) and C)
   - What exactly are we supposed to plot in B) and C)?
-  - > Will then implement those things
+  Will then implement those things
  
   - adding the log scale, editing the graphs and the interpretation is yet to be discussed in the end
     
