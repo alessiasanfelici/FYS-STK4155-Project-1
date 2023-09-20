@@ -17,3 +17,5 @@
 - e) Marco
 - f) Lila
 - g) Alessia and we will join
+
+- We have to use the same amount of data points in the whole project
