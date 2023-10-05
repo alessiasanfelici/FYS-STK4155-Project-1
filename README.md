@@ -1,4 +1,4 @@
-# FYS-STK4155-Project
+# FYS-STK4155-Project-1
 
 ## Tasks
 - This weekend : Carmen uploads a) to c)
