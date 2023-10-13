@@ -8,10 +8,10 @@ The repository contains, together with the report, other two folders:
 2. Code: it contains the whole code implemented for solving the tasks of the assignment.
 
 The project has been developed by a group of 4 people:
-Alessia Sanfelici
-Carmen Ditscheid
-Lila Cassan
-Marco Pozzoli
+- Alessia Sanfelici
+- Carmen Ditscheid
+- Lila Cassan
+- Marco Pozzoli
 
 ## Tasks
 - k-fold: Lila
